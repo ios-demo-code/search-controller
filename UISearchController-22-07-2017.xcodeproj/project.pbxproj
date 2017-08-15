@@ -12,6 +12,7 @@
 		8224BF2E1F22F8C200D147DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8224BF2C1F22F8C200D147DF /* Main.storyboard */; };
 		8224BF301F22F8C200D147DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8224BF2F1F22F8C200D147DF /* Assets.xcassets */; };
 		8224BF331F22F8C200D147DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8224BF311F22F8C200D147DF /* LaunchScreen.storyboard */; };
+		8224BF3B1F22F95000D147DF /* NumberTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8224BF3A1F22F95000D147DF /* NumberTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8224BF2F1F22F8C200D147DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8224BF321F22F8C200D147DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8224BF341F22F8C200D147DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8224BF3A1F22F95000D147DF /* NumberTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8224BF2F1F22F8C200D147DF /* Assets.xcassets */,
 				8224BF311F22F8C200D147DF /* LaunchScreen.storyboard */,
 				8224BF341F22F8C200D147DF /* Info.plist */,
+				8224BF3A1F22F95000D147DF /* NumberTableViewController.swift */,
 			);
 			path = "UISearchController-22-07-2017";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8224BF3B1F22F95000D147DF /* NumberTableViewController.swift in Sources */,
 				8224BF2B1F22F8C200D147DF /* ViewController.swift in Sources */,
 				8224BF291F22F8C200D147DF /* AppDelegate.swift in Sources */,
 			);
